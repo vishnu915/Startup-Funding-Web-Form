@@ -193,16 +193,3 @@ data.deal_score = score;
 * Email alerts
 * Authentication system
 * Cloud deployment
-
----
-
-## 👨‍💻 Author
-
-**Vishnu**
-BCA Final Year | Full Stack Developer
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
