@@ -112,15 +112,6 @@ cd Startup-Funding-Web-Form
 cd backend
 npm install
 node server.js
-```
-
-👉 Server runs at:
-
-```
-http://localhost:5000
-```
-
----
 
 ### 3️⃣ Frontend Setup
 
@@ -133,7 +124,7 @@ npm run dev
 👉 App runs at:
 
 ```
-http://localhost:5173
+ http://localhost:8080/
 ```
 
 ---
