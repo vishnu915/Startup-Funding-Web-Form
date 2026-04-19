@@ -125,18 +125,6 @@ npm run dev
 
 ```
  http://localhost:8080/
-```
-
----
-
-## 🔐 API Endpoints
-
-| Method | Endpoint   | Description |
-| ------ | ---------- | ----------- |
-| POST   | /api/apply | Submit form |
-|        |            |             |
-
----
 
 ## 📂 File Upload Notes
 
